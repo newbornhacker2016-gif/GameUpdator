@@ -5,4 +5,3 @@ League Of Legends|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TEC
 Roblox|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/Roblox.txt
 Roblox Studio|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/RobloxStudio.txt
 Valorant|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/Valorant.txt
-FB|www.facebook.com

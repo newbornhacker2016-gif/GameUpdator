@@ -1,7 +1,9 @@
 Bloodstrike|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/Bloodstrike.txt
+BullSF|https://github.com/newbornhacker2016-gif/GL-TECHGAMESYNC/blob/main/BullSF.txt
 Crossfire PH|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/CrossfirePH.txt
 Knives Out|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/KnivesOutPC.txt
 League Of Legends|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/LeagueOfLegend.txt
 Roblox|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/Roblox.txt
 Roblox Studio|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/RobloxStudio.txt
+SFRush|https://github.com/newbornhacker2016-gif/GL-TECHGAMESYNC/blob/main/SFRush.txt
 Valorant|https://raw.githubusercontent.com/newbornhacker2016-gif/GL-TECHGAMESYNC/refs/heads/main/Valorant.txt

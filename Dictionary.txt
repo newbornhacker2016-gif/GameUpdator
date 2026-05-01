@@ -8,7 +8,7 @@
 "roblox", "Roblox"
 "robloxstudio", "Roblox Studio"
 "patcher_cf2", "Crossfire PH"
-"Blood Strike, "Blood Strike"
+"Blood Strike", "Blood Strike"
 "BloodStrike", "Blood Strike"
 "launcher", "Knives Out"
 "SF Alpha Launcher", "SF Alpha Launcher"

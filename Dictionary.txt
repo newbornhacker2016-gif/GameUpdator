@@ -7,3 +7,4 @@
 "leagueoflegends", "League Of Legends"
 "roblox", "Roblox"
 "robloxstudio", "Roblox Studio"
+"pacther","Crossfire PH"
